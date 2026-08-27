@@ -23,3 +23,27 @@ The analysis was built in Microsoft Excel using financial data from TD Bank Grou
 ### Capital & Valuation Analysis
 - Analyzed the CET1 ratio to evaluate TD's capital position.
 - Evaluated historical book value per share, share price, Price-to-Book (P/B), and Price-to-Earnings (P/E) ratios.
+
+## Financial Forecast
+
+A base-case financial forecast was developed for 2026–2028 using historical performance and the author's assumptions.
+
+Key forecast drivers include:
+- Revenue growth
+- Loan growth
+- Deposit growth
+- PCL as a percentage of average loans
+- Non-interest expense growth
+- Effective tax rate
+
+The model projects revenue, loans, deposits, average loans, provisions for credit losses, non-interest expenses, pre-tax income, income taxes, and net income.
+
+## Scenario Analysis
+
+A simplified revenue sensitivity analysis was developed using three hypothetical scenarios:
+
+- **Bear Case:** 3% annual revenue growth
+- **Base Case:** 5% annual revenue growth
+- **Bull Case:** 7% annual revenue growth
+
+These scenarios illustrate how different sustained revenue growth assumptions could affect TD Bank Group's future revenue trajectory.
