@@ -5,3 +5,21 @@ The analysis was built in Microsoft Excel using financial data from TD Bank Grou
 
 ## Dashboard Preview
 ![TD Bank Group Financial Analysis Dashboard] (dashboard-preview.png)
+
+## Analysis Performed
+
+### Growth Analysis
+- Calculated historical revenue, net income, diluted EPS, loans, deposits, assets, and dividend growth.
+- Calculated compound annual growth rates (CAGR) to evaluate long-term financial trends.
+
+### Profitability Analysis
+- Analyzed Return on Assets (ROA) and both reported and adjusted Return on Equity (ROE).
+- Compared reported and adjusted ROE to distinguish overall reported performance from underlying operating trends.
+
+### Operating & Credit Analysis
+- Evaluated, reported and adjusted efficiency ratios to assess operating performance.
+- Analyzed Provision for Credit Losses (PCL) as a percentage of average loans to assess changes in credit risk.
+
+### Capital & Valuation Analysis
+- Analyzed the CET1 ratio to evaluate TD's capital position.
+- Evaluated historical book value per share, share price, Price-to-Book (P/B), and Price-to-Earnings (P/E) ratios.
