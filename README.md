@@ -5,9 +5,10 @@ The analysis was built in Microsoft Excel using financial data from TD Bank Grou
 
 ## Project File
 
-[Download the Excel Financial Model] (TD_Bank_Group_Financial_Analysis.xlsx)
+[Download the Excel Financial Model](TD_Bank_Group_Financial_Analysis.xlsx)
+
 ## Dashboard Preview
-![TD Bank Group Financial Analysis Dashboard] (dashboard-preview.png)
+![TD Bank Group Financial Analysis Dashboard](dashboard-preview.png)
 
 ## Analysis Performed
 
