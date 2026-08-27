@@ -47,3 +47,15 @@ A simplified revenue sensitivity analysis was developed using three hypothetical
 - **Bull Case:** 7% annual revenue growth
 
 These scenarios illustrate how different sustained revenue growth assumptions could affect TD Bank Group's future revenue trajectory.
+
+## Key Findings
+
+- **Revenue Growth:** TD's reported revenue increased from $42.7B CAD in 2021 to $67.8B in 2025, representing a 12.3% CAGR.
+
+- **Profitability:** Reported ROE was volatile over the period, while adjusted ROE declined from 15.9% in 2021 to 12.9% in 2025, showing a more consistent downward trend in underlying profitability.
+
+- **Credit Risk:** PCL as a percentage of average loans increased from 0.14% in 2022 to 0.47% in 2025, although the increase moderated considerably between 2024 and 2025.
+
+- **Forecast:** Under the base-case assumptions, revenue is forecast to increase from $67.8B in 2025 to approximately $77.3B by 2028, reflecting progressively moderating annual revenue growth assumptions.
+
+- **Valuation:** TD's share price increased to $115.16M in 2025 from $89.64M in 2025, while its P/B ratio rose to 1.67 in 2025 from 1.29 in 2024, indicating a higher market valuation relative to book value. Its 2025 P/E ratio of 9.96 remained below its five-year average of 12.18.
