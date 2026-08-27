@@ -59,3 +59,30 @@ These scenarios illustrate how different sustained revenue growth assumptions co
 - **Forecast:** Under the base-case assumptions, revenue is forecast to increase from $67.8B in 2025 to approximately $77.3B by 2028, reflecting progressively moderating annual revenue growth assumptions.
 
 - **Valuation:** TD's share price increased to $115.16M in 2025 from $89.64M in 2025, while its P/B ratio rose to 1.67 in 2025 from 1.29 in 2024, indicating a higher market valuation relative to book value. Its 2025 P/E ratio of 9.96 remained below its five-year average of 12.18.
+
+## Skills Demonstrated
+
+- Microsoft Excel
+- Financial statement analysis
+- Financial ratio analysis
+- Financial forecasting
+- Scenario and sensitivity analysis
+- Data visualization and dashboard development
+- CAGR and growth analysis
+- Banking profitability, credit risk, capital, and valuation analysis
+
+## Data Sources
+
+Historical financial data was obtained from publicly available TD Bank Group annual reports covering fiscal years 2021–2025.
+
+Historical figures reflect values reported in the respective fiscal-year reports and may differ from subsequently restated comparative figures.
+
+All forward-looking estimates for 2026–2028 are illustrative analyst assumptions developed for this project and do not represent TD Bank Group guidance.
+
+## Project Limitations
+
+This project represents a simplified financial analysis and forecasting model developed for educational and portfolio purposes. The forecast does not constitute investment advice and does not incorporate all factors that could affect TD Bank Group's future financial performance.
+
+## Methodology Note
+
+This was my first time using Microsoft Excel and building a financial analysis. For full transparency, ChatGPT was used as an assistive tool in the development of this project.
